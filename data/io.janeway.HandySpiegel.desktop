@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Handy-Spiegel
+Name[en]=Phone Mirror
+GenericName=Handy-Bildschirm spiegeln
+Comment=Handy auf PC oder Fernseher anzeigen und Handyspiele spielen
+Comment[en]=Show and control your Android phone on PC or TV
+Exec=handy-spiegel
+Icon=io.janeway.HandySpiegel
+Terminal=false
+Categories=Utility;
+Keywords=Spiegel;scrcpy;Android;Samsung;Handy;Spiegeln;Screen;Mirror;
+StartupWMClass=io.janeway.HandySpiegel
